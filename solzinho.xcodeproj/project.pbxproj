@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		08E5D5E327BBF13C00E2B15F /* adot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		08E5D5E327BBF13C00E2B15F /* solzinho.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = solzinho.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08E5D5E627BBF13C00E2B15F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08E5D5E827BBF13C00E2B15F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		08E5D5EA27BBF13C00E2B15F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		08E5D5DA27BBF13C00E2B15F = {
 			isa = PBXGroup;
 			children = (
-				08E5D5E527BBF13C00E2B15F /* adot */,
+				08E5D5E527BBF13C00E2B15F /* solzinho */,
 				08E5D5E427BBF13C00E2B15F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		08E5D5E427BBF13C00E2B15F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				08E5D5E327BBF13C00E2B15F /* adot.app */,
+				08E5D5E327BBF13C00E2B15F /* solzinho.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		08E5D5E527BBF13C00E2B15F /* adot */ = {
+		08E5D5E527BBF13C00E2B15F /* solzinho */ = {
 			isa = PBXGroup;
 			children = (
 				08E5D5E627BBF13C00E2B15F /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				08E5D5F127BBF14000E2B15F /* LaunchScreen.storyboard */,
 				08E5D5F427BBF14000E2B15F /* Info.plist */,
 			);
-			path = adot;
+			path = solzinho;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		08E5D5E227BBF13C00E2B15F /* adot */ = {
+		08E5D5E227BBF13C00E2B15F /* solzinho */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 08E5D5F727BBF14000E2B15F /* Build configuration list for PBXNativeTarget "adot" */;
+			buildConfigurationList = 08E5D5F727BBF14000E2B15F /* Build configuration list for PBXNativeTarget "solzinho" */;
 			buildPhases = (
 				08E5D5DF27BBF13C00E2B15F /* Sources */,
 				08E5D5E027BBF13C00E2B15F /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = adot;
+			name = solzinho;
 			productName = adot;
-			productReference = 08E5D5E327BBF13C00E2B15F /* adot.app */;
+			productReference = 08E5D5E327BBF13C00E2B15F /* solzinho.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 08E5D5DE27BBF13C00E2B15F /* Build configuration list for PBXProject "adot" */;
+			buildConfigurationList = 08E5D5DE27BBF13C00E2B15F /* Build configuration list for PBXProject "solzinho" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				08E5D5E227BBF13C00E2B15F /* adot */,
+				08E5D5E227BBF13C00E2B15F /* solzinho */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		08E5D5DE27BBF13C00E2B15F /* Build configuration list for PBXProject "adot" */ = {
+		08E5D5DE27BBF13C00E2B15F /* Build configuration list for PBXProject "solzinho" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				08E5D5F527BBF14000E2B15F /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		08E5D5F727BBF14000E2B15F /* Build configuration list for PBXNativeTarget "adot" */ = {
+		08E5D5F727BBF14000E2B15F /* Build configuration list for PBXNativeTarget "solzinho" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				08E5D5F827BBF14000E2B15F /* Debug */,
